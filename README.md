@@ -1,11 +1,12 @@
 # HorrorNarrator_v6
 
-One-click horror narrator script runner.
+Google Colab One-Click Run (auto setup):
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jxstandy/HorrorNarrator_v6/blob/main/horrornarrator_v6.ipynb)
 
-## 🚀 Run in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jxstandy/HorrorNarrator_v6/blob/main/HorrorNarrator_v6.ipynb)
+## Features
+- Paste your script or upload `.txt`
+- Auto-generate audio with Bark TTS
+- Auto-generate `.srt` subtitles (TikTok style)
+- Output saved locally
 
-### Usage
-1. Click the Colab button above.
-2. Paste your horror script into `script.txt` or directly into the notebook.
-3. Run all cells to generate audio (and video if needed).
+GitHub: **jxstandy**
